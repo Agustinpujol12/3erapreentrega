@@ -1,7 +1,7 @@
 const productos = [
-    { nombre: 'remera', imagen: 'https://piet.com.ar/wp-content/uploads/piet-remera-negra-cuadrado-blanco-01.jpg', precio: 20 },
-    { nombre: 'pantalon', imagen: 'https://tienda.guantexindustrial.com.ar/817-large_default/pantalon-jeans-bufalo-talle-46.jpg', precio: 30 },
-    { nombre: 'zapatilla', imagen: 'https://calzadosnicoar.vtexassets.com/arquivos/ids/68025740/Zapatilla-urbana-negro-mujer-kevingston-lucy-a_dyjooo.jpg?v=638271278252500000', precio: 50 }
+    { nombre: 'remera', imagen: 'https://piet.com.ar/wp-content/uploads/piet-remera-negra-cuadrado-blanco-01.jpg', precio: 2000 },
+    { nombre: 'pantalon', imagen: 'https://tienda.guantexindustrial.com.ar/817-large_default/pantalon-jeans-bufalo-talle-46.jpg', precio: 3000 },
+    { nombre: 'zapatilla', imagen: 'https://calzadosnicoar.vtexassets.com/arquivos/ids/68025740/Zapatilla-urbana-negro-mujer-kevingston-lucy-a_dyjooo.jpg?v=638271278252500000', precio: 5000 }
 ];
 
 const botonesAgregar = document.querySelectorAll('.agregar-carrito');
